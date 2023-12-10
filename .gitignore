@@ -1,0 +1,7 @@
+/build
+.vscode
+.dart_tool
+
+# misc
+.DS_Store
+pubspec.lock
